@@ -45,5 +45,5 @@ const clearAllTasks =()=> {
 }
 
 const countTasks = ()=>{
-   alert("tatal number of tasks is:" + tasks.length)
+   alert("total number of tasks is:" + tasks.length)
 }
